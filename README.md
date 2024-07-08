@@ -11,7 +11,6 @@ This project is a web application that allows users to upload a video, extract a
 - [Configuration](#configuration)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,7 +32,7 @@ This project is a web application that allows users to upload a video, extract a
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/video-transcription-translation.git
+git clone https://github.com/prithiknataraj/Tran-scripter.git
 cd video-transcription-translation
 ```
 
